@@ -94,7 +94,7 @@
   "hexcasting.spell.hexcasting:zone_entity/monster": "Zonedest.: Monster",
   "hexcasting.spell.hexcasting:zone_entity/item": "Zonedest.: Voorwerp",
   "hexcasting.spell.hexcasting:zone_entity/player": "Zonedest.: Speler",
-  "hexcasting.spell.hexcasting:zone_entity/not_living": "Zonedest.: Niet-levend",
+  "hexcasting.spell.hexcasting:zone_entity/living": "Zonedest.: Levend",
   "hexcasting.spell.hexcasting:zone_entity/not_animal": "Zonedset.: Niet-dier",
   "hexcasting.spell.hexcasting:zone_entity/not_monster": "Zonedest.: Niet-monster",
   "hexcasting.spell.hexcasting:zone_entity/not_item": "Zonedest.: Niet-voorwerp",
