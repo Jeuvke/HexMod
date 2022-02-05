@@ -164,7 +164,7 @@
   "hexcasting.spell.hexcasting:const/vec/pz": "Vectorreflectie +Z",
   "hexcasting.spell.hexcasting:const/vec/nx": "Vectorreflectie -X",
   "hexcasting.spell.hexcasting:const/vec/ny": "Vectorreflectie -Y",
-  "hexcasting.spell.hexcasting:const/vec/nz": "Vectorreflectie -Z"
+  "hexcasting.spell.hexcasting:const/vec/nz": "Vectorreflectie -Z",
 
   "hexcasting.entry.great_spells": "Grote spreuken",
   "hexcasting.page.great_spells1": "De spreuken die hier zijn vastgelegd worden beweerd van legendarische moeilijkheid en kracht te zijn, zelden vastgelegd (en met een goede reden). Het is waarschijnlijk gewoon prietpraat van traditionalisten, echter-- een patroon is een patroon. Wat zou er nou fout kunnen gaan?",
@@ -472,5 +472,5 @@
   "hexcasting.page.stackmanip2": "Duplicates the top iota of the stack.",
   "hexcasting.page.stackmanip3": "Swaps the top two iotas of the stack.",
   "hexcasting.page.stackmanip4": "Grabs the nth element in the stack and brings it to the top.",
-  "hexcasting.page.stackmanip5": "The Fisherman's Gambit takes a number and reaches that far $(italic)down/$ the stack-- pulling it from its original position up to the top of the stack. For example, using the Gambit with the number 2 will pull the second item on the stack to the top, effectively acting as a more-cumbersome Jester's Gambit. Using the Gambit with a negative number, a fraction, or a length larger than the stack will dredge all sorts of unknowable patterns from the aether, and is liable to cause a mishap.",
+  "hexcasting.page.stackmanip5": "The Fisherman's Gambit takes a number and reaches that far $(italic)down/$ the stack-- pulling it from its original position up to the top of the stack. For example, using the Gambit with the number 2 will pull the second item on the stack to the top, effectively acting as a more-cumbersome Jester's Gambit. Using the Gambit with a negative number, a fraction, or a length larger than the stack will dredge all sorts of unknowable patterns from the aether, and is liable to cause a mishap."
 }
